@@ -1,0 +1,7 @@
+site_name: Python Labs
+nav:
+  - Início: index.md
+  - Guia: guia.md
+theme:
+  name: material
+  language: pt-BR
