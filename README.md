@@ -27,7 +27,10 @@ Laboratório de projetos Python para estudos, testes, boas práticas e documenta
    poetry shell
    ```
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 78c2b676501af42884598cad4bf3427bea23e356
 ## 🛠️ Como criar um novo projeto
 
 5. Execute o script de criação:
