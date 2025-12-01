@@ -1,1 +1,0 @@
-print("Olá, este é um projeto gerado pelo template!")

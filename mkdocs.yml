@@ -1,7 +1,3 @@
-site_name: Python Labs
+site_name: "Python Labs"
 nav:
-  - Início: index.md
-  - Guia: guia.md
-theme:
-  name: material
-  language: pt-BR
+  - Início: docs/index.md
